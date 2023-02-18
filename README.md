@@ -1,2 +1,2 @@
 # shinyapp
-Hello, this is YH's practive Shiny app!
+Hello, this is YH's practice Shiny app!
